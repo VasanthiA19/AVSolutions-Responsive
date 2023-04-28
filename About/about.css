@@ -168,8 +168,9 @@ html {
   .video {
     width: 90%;
     height: 20%;
-    margin-left: 75px;
-    margin-top: 70px;
+    margin-left: 50px;
+    margin-top: 170px;
+   
   }
   
 
@@ -2399,6 +2400,17 @@ html {
     opacity: .85;
   }
   
+  .image-2 {
+    margin-top: 1px;
+    margin-left: 78px;
+  }
+  
+  
+  .image-22 {
+    margin-top: 1px;
+    margin-left: 20px;
+  }
+
   .button:active {
     background-color: #262626;
   }
@@ -2780,7 +2792,6 @@ html {
   
   .image-6 {
     margin-top: 307px;
-    margin-left: 113px;
   }
   
   .paragraph-2 {
@@ -2950,7 +2961,7 @@ html {
     width: 500px;
     color: #fff;
     text-align: left;
-    margin-top: 153px;
+    margin-top: 53px;
     margin-left: 38px;
     font-family: League Spartan, sans-serif;
     font-size: 20px;
@@ -3006,10 +3017,114 @@ html {
     }
     .image-6{
       max-width: 30vw;
+      margin-left: -10%;
+      margin-top: 55%;
+      
+    }
+
+    .buytbn2{
+      margin-left: 500px;
+      width: 100px;
+      font-size: 1rem;
+    }
+   .buybtn3{
+      
+      width: 100px;
+      font-size: 1rem;
+    }
+    .buybtn{
+     
+      width: 100px;
+      font-size: 1rem;
     }
    
+    .booktext{
+      font-size: 1.5rem;
+      width: 15%;
+    }
+    .book2text{
+      font-size: 1.5rem;
+      margin-left: 1000px;
+    }
+    .text-block-2{
+      font-size: 1.5rem;
+    }
+
+    .image-8{
+      margin-left: 700px;
+    }
+
     }
   
+    @media screen and (max-width: 1200px) {
+
+      .button{
+        font-size: 0.75rem;
+      }
+      .project-button{
+        font-size: 0.75rem;
+       
+      }
+      .home-button{
+       font-size: 0.75rem;
+      }
+    
+      .welcome-to-av-solutions-0{
+        font-size: 5rem;
+  
+      }
+      
+      .welcome-to-av-solutions-1{
+        font-size: 5rem;
+        
+        
+      }
+      .mytextfounder{
+        font-size: 1.5rem;
+        width: 50%;
+        padding-top: 3rem;
+      }
+      .image-6{
+        max-width: 30vw;
+        margin-left: -10%;
+        margin-top: 55%;
+        
+      }
+     
+      .buytbn2{
+        margin-left: 400px;
+        width: 100px;
+        font-size: 1rem;
+      }
+     .buybtn3{
+        
+        width: 100px;
+        font-size: 1rem;
+      }
+      .buybtn{
+       
+        width: 100px;
+        font-size: 1rem;
+      }
+     
+      .booktext{
+        font-size: 1.5rem;
+        width: 15%;
+      }
+      .book2text{
+        font-size: 1.5rem;
+        margin-left: 900px;
+      }
+      .text-block-2{
+        font-size: 1.5rem;
+      }
+  
+      .image-8{
+        margin-left: 600px;
+      }
+  
+
+      }
   
    
    @media screen and (max-width: 1100px) {
@@ -3025,9 +3140,12 @@ html {
        font-size: 0.65rem;
        margin-left: 3%;
      }
-  
+     .frame-31{
+      margin-top: -10rem;
+     }
      .welcome-to-av-solutions-0{
       font-size: 4rem;
+     
 
     }
     
@@ -3041,6 +3159,19 @@ html {
     }
     .image-6{
       max-width: 30vw;
+      margin-left: -10%;
+      margin-top: 55%;
+      
+    }
+    .image-2{
+    
+      width: -7%;
+      margin-left: 5%;
+    }
+    .image-22{
+      
+      width: -7%;
+      
     }
      
    }
@@ -3062,7 +3193,9 @@ html {
       font-size: 3.5rem;
 
     }
-    
+    .frame-31{
+      margin-top: -10rem;
+     }
     .welcome-to-av-solutions-1{
       font-size: 3.5rem;
       
@@ -3070,9 +3203,73 @@ html {
     .mytextfounder{
       font-size: 1.05rem;
       width: 40%;
+      padding-top: 5rem;
     }
     .image-6{
-      max-width: 40vw;
+      max-width: 30vw;
+      margin-left: -25%;
+      margin-top: 55%;
+      
+    }
+    .buytbn2{
+      margin-left: 370px;
+      width: 100px;
+      font-size: 1rem;
+      
+    }
+   .buybtn3{
+      
+      width: 100px;
+      font-size: 1rem;
+      margin-left: 250px;
+      margin-top: 75px;
+    }
+    .section-5{
+      margin-top: 100px;
+    }
+    .buybtn{
+     
+      width: 100px;
+      font-size: 1rem;
+      margin-left: 250px;
+      margin-top: 25px;
+    }
+   
+    .booktext{
+      font-size: 1.5rem;
+      width: 15%;
+      margin-top: -30px;
+      margin-left: 250px;
+    }
+    .book2text{
+      font-size: 1.5rem;
+      margin-left: 720px;
+      margin-top: -190px;
+      
+    }
+    .text-block-2{
+      font-size: 1.5rem;
+      margin-top: -200px;
+      margin-left: 250px;
+    }
+    .section-4{
+      margin-top: -140px;
+    }
+
+    .image-8{
+      margin-left: 500px;
+      width: 200px;
+      margin-top: -200px;
+      height: 200px;
+    }
+    .image-7{
+      width: 200px;
+      height: 200px;
+    }
+    .image-9{
+      width: 200px;
+      height: 200px;
+      margin-top: 90px;
     }
    }
   
@@ -3098,22 +3295,87 @@ html {
     
     
      .welcome-to-av-solutions-0{
-      font-size: 2.5rem;
+      font-size: 3rem;
 
     }
     
     .welcome-to-av-solutions-1{
-      font-size: 2.5rem;
+      font-size: 3rem;
       
     }
     .mytextfounder{
       font-size: 1.05rem;
       width: 40%;
+      padding-top: 5rem;
     }
     .image-6{
-      max-width: 40vw;
+      max-width: 30vw;
+      margin-left: -25%;
+      margin-top: 55%;
+      
+    }
+
+    
+     
+   }
+   @media screen and (max-width: 900px) {
+  
+    .button{
+      font-size: 0.65rem;
+     
+    }
+
+    .home-button{
+      font-size: 0.65rem;
+      margin-left: -3%;
+    }
+    .project-button{
+      font-size: 0.65rem;
+    
+    }
+    
+    .image{
+      margin-left: -3%;
+    }
+    
+    
+     .welcome-to-av-solutions-0{
+      font-size: 3rem;
+
+    }
+    
+    .welcome-to-av-solutions-1{
+      font-size: 3rem;
+      
+    }
+    .mytextfounder{
+      font-size: 1.05rem;
+      width: 40%;
+      padding-top: 5rem;
+    }
+    .image-6{
+      max-width: 30vw;
+      margin-left: -25%;
+      margin-top: 55%;
+      
+    }
+    .booktext{
+      width: 25%;
+    }
+   
+    .newslettertext{
+      margin-left: 30px;
+      margin-top: 50px;
     }
      
+    .newsletter-btn{
+      margin-left: 30px;
+      margin-top: 30px;
+    }
+    .newsletter-content{
+      margin-top: 20px;
+    }
+   
    }
   
    @media screen and (max-width: 850px) {
@@ -3149,13 +3411,77 @@ html {
     }
     .mytextfounder{
       font-size: 1.05rem;
-      width: 40%;
+      width: 50%;
+      padding-top: 6rem;
     }
     .image-6{
-      max-width: 40vw;
+      max-width: 30vw;
+      margin-left: -35%;
+      margin-top: 65%;
+      
     }
 
+    .buytbn2{
+      margin-left: 270px;
+      width: 100px;
+      font-size: 1rem;
+      
+    }
+   .buybtn3{
+      
+      width: 100px;
+      font-size: 1rem;
+      margin-left: 200px;
+      margin-top: 25px;
+    }
+    .buybtn{
+     
+      width: 100px;
+      font-size: 1rem;
+      margin-left: 200px;
+      margin-top: 10px;
+    }
+   
+    .booktext{
+      font-size: 1rem;
+      width: 20%;
+      margin-top: -22px;
+      margin-left: 210px;
+    }
+    .book2text{
+      font-size: 1rem;
+      margin-left: 570px;
+      margin-top: -150px;
+      
+    }
+    .text-block-2{
+      font-size: 1rem;
+      margin-top: -150px;
+      margin-left: 210px;
+      width: 20%;
+    }
+    .section-4{
+      margin-top: -140px;
+    }
 
+    .image-8{
+      margin-left: 400px;
+      width: 150px;
+      margin-top: -150px;
+      height: 150px;
+    }
+    .image-7{
+      width: 150px;
+      height: 150px;
+    }
+    .image-10{
+      width: 80vw;
+     }
+    .image-9{
+      width: 150px;
+      height: 150px;
+      margin-top: 60px;
+    }
   
    } 
   
@@ -3185,18 +3511,32 @@ html {
     }
     .mytextfounder{
       font-size: 1.05rem;
-      width: 40%;
+      width: 50%;
+      padding-top: 6rem;
     }
     .image-6{
-      max-width: 40vw;
+      max-width: 30vw;
+      margin-left: -35%;
+      margin-top: 65%;
+      
     }
+    .image-10{
+      width: 80vw;
+     }
 
      .image{
        margin-left: -5%;
      }
      .image-2{
-      margin-left: 4%;
+      margin-left: 8%;
     }
+    .image-5{
+     margin-top: -20%;
+   }
+   .video{
+    margin-left: 30px;
+    margin-top: 100px;
+   }
    }
   
    @media screen and (max-width: 750px) {
@@ -3214,25 +3554,31 @@ html {
        font-size: 0.55rem;
      }
      .welcome-to-av-solutions-0{
-      font-size: 2rem;
+      font-size: 3rem;
      }
      .welcome-to-av-solutions-1{
-      font-size: 2rem;
+      font-size: 3rem;
      }
-    .mytextfounder{
-      font-size: 1rem;
+     .mytextfounder{
+      font-size: 1.05rem;
       width: 50%;
-    }  
+      padding-top: 7rem;
+    }
+    .image-10{
+      width: 80vw;
+     }
     .image-6{
-        max-width: 40vw;
-      }
-  
+      max-width: 30vw;
+      margin-left: -35%;
+      margin-top: 65%;
+      
+    }
     
      .image{
        margin-left: -5%;
      }
      .image-2{
-       margin-left: 4%;
+       margin-left: 8%;
      }
     
    }
@@ -3243,7 +3589,9 @@ html {
        font-size: 0.55rem;
        margin-left: 13%; 
      }
-  
+     .frame-31{
+      margin-top: -8rem;
+     }
      .home-button{
        font-size: 0.55rem;
        margin-left: -12%;
@@ -3252,27 +3600,42 @@ html {
        font-size: 0.55rem;
      }
      .welcome-to-av-solutions-0{
-      font-size: 2rem;
+      font-size: 2.5rem;
      }
      .welcome-to-av-solutions-1{
-      font-size: 2rem;
+      font-size: 2.5rem;
      }
-    .mytextfounder{
-      font-size: 0.7rem;
-      width: 60%;
-      padding-top: 20px;
-      
+     .mytextfounder{
+      font-size: 0.85rem;
+      width: 45%;
+      padding-top: 7rem;
     }
     .image-6{
-      max-width: 40vw;
+      max-width: 30vw;
+      margin-left: -35%;
+      margin-top: 65%;
+      
     }
 
      .image{
        margin-left: -7%;
      }
      .image-2{
-       margin-left: 5%;
+       margin-left: 6%;
      
+     }
+
+     .image-8{
+      margin-left: 370px;
+     }
+     .book2text{
+      margin-left: 540px;
+     }
+     .image-10{
+      width: 80vw;
+     }
+     .buytbn2{
+      margin-left: 240px;
      }
     
    }
@@ -3282,6 +3645,9 @@ html {
      .button{
        font-size: 0.55rem;
        margin-left: 11%; 
+     }
+     .frame-31{
+      margin-top: -8rem;
      }
   
      .home-button{
@@ -3298,62 +3664,141 @@ html {
      .welcome-to-av-solutions-1{
       font-size: 2rem;
      }
-    .mytextfounder{
+     .mytextfounder{
       font-size: 0.7rem;
-      width: 60%;
-      padding-top: 30px;
-      
+      width: 40%;
+      padding-top: 10rem;
+      margin-left: 2rem;
     }
     .image-6{
-      max-width: 40vw;
+      max-width: 30vw;
+      margin-left: -35%;
+      margin-top: 65%;
+      
     }
+
      .image{
        margin-left: -7%;
      }
      .image-2{
-       margin-left: 7%;
-       width: 12vw;
-     
-     }
+      margin-left: 8%;
+      width: 4vw;
+    
+    }
+    .image-22{
+      margin-left: 1%;
+      width: 6vw;
+    
+    }
      .my-image{
       margin-top: -175%;
+    }
+
+    .section-4{
+      margin-top: -200px;
+    }
+
+    .image-8{
+      margin-left:30px;
+      margin-top: 50px;
+    }
+    .image-9{
+      margin-top: 80px;
+    }
+
+    .booktext{
+      margin-top: -220px;
+      margin-left: 210px;
+      width: 28%;
+    }
+    .text-block-2{
+      margin-left: 210px;
+    }
+
+    .book2text{
+      margin-left: 210px;
+    }
+    .buytbn2{
+      margin-top: 100px;
+      margin-left: 210px;
+    }
+    .buybtn{
+      margin-left: 210px;
+    }
+    .image-10{
+      width: 80vw;
+     }
+    .buybtn3{
+      margin-left: 210px;
+    }
+    .newsletter-content{
+     
+      width: 80%;
+    }
+    .video{
+      width: 80vw;
     }
    }
   
    @media screen and (max-width: 500px) {
   
-     .image-2{
-       margin-left: 8%;
-       width: 10vw;
-     }
+    .image-2{
+      margin-left: 10%;
+      width: 4vw;
+    }
+    .image-22{
+      margin-left: 1%;
+      width: 5vw;
+    }
      .button{
        margin-left: 10%;
      }
      .home-button{
        margin-left: -4rem;
      }
+     .section-4{
+      margin-top: -300px;
+    }
+     
      .image{
        margin-left: -7%;
      }
      .welcome-to-av-solutions-0{
-      font-size: 2rem;
+      font-size: 1.5rem;
      }
      .welcome-to-av-solutions-1{
-      font-size: 2rem;
+      font-size: 1.5rem;
      }
-    .mytextfounder{
+     .frame-31{
+      margin-top: -7rem;
+     }
+     .mytextfounder{
       font-size: 0.7rem;
-      width: 60%;
-      padding-top: 40px;
-      
+      width: 40%;
+      padding-top: 12rem;
+      margin-left: 1rem;
     }
     .image-6{
-      max-width: 40vw;
+      max-width: 30vw;
+      margin-left: -35%;
+      margin-top: 65%;
+      
     }
-    
+    .book2text{
+      width: 25%;
+    }
+    .text-block-2{
+      width: 25%;
+    }
      .form-block{
        margin-left: 27%;
      }
+     .image-10{
+      width: 80vw;
+     }
+     .video{
+      width: 80vw;
+    }
    }
    @media screen and (max-width: 450px) {
     .my-image{
@@ -3362,48 +3807,78 @@ html {
   }
    @media screen and (max-width: 400px) {
   
-     .image-2{
-       margin-left: 10%;
-       width: 6vw;
-     }
+    .image-2{
+      margin-left: 11%;
+      width: 3vw;
+    }
+    .image-22{
+      margin-left: 1%;
+      width: 4vw;
+    }
      .button{
        margin-left: 12%;
      }
      .home-button{
        margin-left: -4rem;
      }
+     .project-button{
+      font-size: 0.5rem;
+      margin-left: 12%;
+    }
+    .frame-31{
+      margin-top: -3rem;
+    }
+    .book2text{
+      width: 35%;
+    }
+    .text-block-2{
+      width: 35%;
+    }
+    .booktext{
+      width: 35%;
+    }
      .image{
        margin-left: -4%;
        width: 30%;
      }
+     .image-10{
+      width: 80vw;
+     }
      .welcome-to-av-solutions-0{
-      font-size: 2rem;
+      font-size: 1.5rem;
      }
      .welcome-to-av-solutions-1{
-      font-size: 2rem;
+      font-size: 1.5rem;
      }
-    .mytextfounder{
+     .mytextfounder{
       font-size: 0.7rem;
-      width: 60%;
-      padding-top: 50px;
-      
+      width: 40%;
+      padding-top: 12rem;
+      margin-left: 2rem;
     }
     .image-6{
-      max-width: 40vw;
+      max-width: 30vw;
+      margin-left: -65%;
+      margin-top: 65%;
+      
     }
-   
+    .video{
+      width: 80vw;
+    }
      .form-block{
        margin-left: 27%;
      }
    }
  
-   @media screen and (max-width: 300px) {
+   @media screen and (max-width: 330px) {
   
      .button{
        font-size: 0.5rem;
        margin-left: 12%; 
      }
-  
+     .frame-31{
+      margin-top: -3rem;
+    }
      .home-button{
        font-size: 0.5rem;
        margin-left: -10rem;
@@ -3412,20 +3887,38 @@ html {
        font-size: 0.5rem;
        margin-left: 12%;
      }
+     .image-10{
+      width: 80vw;
+     }
      .welcome-to-av-solutions-0{
-      font-size: 2rem;
+      font-size: 1.5rem;
      }
      .welcome-to-av-solutions-1{
-      font-size: 2rem;
+      font-size: 1.5rem;
      }
-    .mytextfounder{
+     .mytextfounder{
       font-size: 0.7rem;
-      width: 60%;
-      padding-top: 60px;
-      
+      width: 40%;
+      padding-top: 12rem;
+      margin-left: 2rem;
     }
     .image-6{
-      max-width: 40vw;
+      max-width: 30vw;
+      margin-left: -65%;
+      margin-top: 65%;
+      
+    }
+    .book2text{
+      width: 30%;
+      font-size: 0.75rem;
+    }
+    .text-block-2{
+      width: 30%;
+      font-size: 0.75rem
+    }
+    .booktext{
+      width: 30%;
+      font-size: 0.75rem
     }
     
      .image{
@@ -3433,14 +3926,17 @@ html {
        width: 5%;
      }
      .image-2{
-       margin-left: 10%;
-       width: 6vw;
-     }
+      margin-left: 11%;
+      width: 3vw;
+    }
+    .image-22{
+      margin-left: 0.5%;
+      width: 4vw;
+    }
   
      .form-block{
        margin-left: 25%;
      }
    }
 
-   /* This page is the only one left */
-  
+   

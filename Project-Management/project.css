@@ -2369,7 +2369,13 @@ html {
   
   .image-2 {
     margin-top: 1px;
-    margin-left: 128px;
+    margin-left: 78px;
+  }
+  
+  
+  .image-22 {
+    margin-top: 1px;
+    margin-left: 20px;
   }
   
   .project-button {
@@ -2621,10 +2627,15 @@ html {
     font-size: 7rem;
    }
    .image-2{
-     
-     width: -7%;
-     margin-left: 5%;
-   }
+    
+    width: -7%;
+    margin-left: 5%;
+  }
+  .image-22{
+    
+    width: -7%;
+    
+  }
    .my-image{
     margin-top: -50%;
   }
@@ -2653,6 +2664,9 @@ html {
     font-size: 1.5rem;
     
     
+  }
+  .image{
+    margin-left: -3%;
   }
   .my-image{
     margin-top: -65%;
@@ -2759,7 +2773,7 @@ html {
      margin-left: -5%;
    }
    .image-2{
-     margin-left: 4%;
+     margin-left: 8%;
    }
    .my-image{
     margin-top: -125%;
@@ -2796,7 +2810,7 @@ html {
      margin-left: -5%;
    }
    .image-2{
-     margin-left: 4%;
+     margin-left: 8%;
    }
    .my-image{
     margin-top: -135%;
@@ -2834,7 +2848,7 @@ html {
      margin-left: -7%;
    }
    .image-2{
-     margin-left: 5%;
+     margin-left: 6%;
    
    }
    .my-image{
@@ -2873,10 +2887,15 @@ html {
      margin-left: -7%;
    }
    .image-2{
-     margin-left: 7%;
-     width: 12vw;
-   
-   }
+    margin-left: 8%;
+    width: 4vw;
+  
+  }
+  .image-22{
+    margin-left: 1%;
+    width: 6vw;
+  
+  }
    .my-image{
     margin-top: -175%;
   }
@@ -2884,10 +2903,14 @@ html {
 
  @media screen and (max-width: 500px) {
 
-   .image-2{
-     margin-left: 8%;
-     width: 10vw;
-   }
+  .image-2{
+    margin-left: 10%;
+    width: 4vw;
+  }
+  .image-22{
+    margin-left: 2%;
+    width: 5vw;
+  }
    .button{
      margin-left: 10%;
    }
@@ -2923,16 +2946,24 @@ html {
 }
  @media screen and (max-width: 400px) {
 
-   .image-2{
-     margin-left: 10%;
-     width: 6vw;
-   }
+  .image-2{
+    margin-left: 11%;
+    width: 3vw;
+  }
+  .image-22{
+    margin-left: 1%;
+    width: 4vw;
+  }
    .button{
      margin-left: 12%;
    }
    .home-button{
      margin-left: -4rem;
    }
+   .project-button{
+    font-size: 0.5rem;
+    margin-left: 12%;
+  }
    .image{
      margin-left: -4%;
      width: 30%;
@@ -2956,6 +2987,7 @@ html {
    .form-block{
      margin-left: 27%;
    }
+
  }
  @media screen and (max-width: 350px) {
   .my-image{
@@ -2998,9 +3030,13 @@ html {
      width: 5%;
    }
    .image-2{
-     margin-left: 10%;
-     width: 6vw;
-   }
+    margin-left: 11%;
+    width: 3vw;
+  }
+  .image-22{
+    margin-left: 0.5%;
+    width: 4vw;
+  }
 
    .form-block{
      margin-left: 25%;
